@@ -1,4 +1,14 @@
-### Hi there 👋
+### Boas Vindas Ao Meu Perfil
+° Meu Nome é Naah Fernanda
+
+° Estou Estudando Na Alura
+
+° Estou Me Desenvolvendo Na Linguagem JavaScript.
+
+° Ultilizo Esse Espaço Para Minha Organização e Compartilhamento dos Meus Projetos Desenvolvidos
+
+### Você Pode Entrar Em Contato Comigo 
+00001111987385sp@.al.educacao.sp.gov.br
 
 <!--
 **Naahfernanda/Naahfernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
